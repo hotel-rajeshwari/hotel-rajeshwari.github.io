@@ -1,0 +1,32 @@
+
+# GitHub Pages Deployment Steps
+
+1. Create GitHub account
+2. Create repository:
+   YOUR_USERNAME.github.io
+
+Example:
+pavanhotel.github.io
+
+3. Upload:
+- index.html
+- README.md
+
+4. Go to:
+Settings -> Pages
+
+5. Select:
+Deploy from a branch
+
+6. Branch:
+main
+
+7. Folder:
+/(root)
+
+8. Click Save
+
+Your website will be live in 2-3 minutes.
+
+Example:
+https://YOUR_USERNAME.github.io
